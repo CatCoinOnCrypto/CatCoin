@@ -1,0 +1,17 @@
+{
+  "chainId": 101,
+  "address": "9n2Q9r8UUi5MJKECuaR8tkxq1rDhdPT8FhEmsEi3pump",
+  "symbol": "CAT",
+  "name": "CatCoin",
+  "decimals": 9,
+  "logoURI": "https://www.catcoinoncrypto.com/logo.png",
+  "tags": ["community", "memecoin"],
+  "extensions": {
+    "website": "https://www.catcoinoncrypto.com/",
+    "twitter": "https://x.com/CatCoinOnCrypto",
+    "telegram": "https://t.me/CatCoinLitterBox",
+    "discord": "https://discord.gg/6TnjRbu85V",
+    "explorer": "https://solscan.io/token/9n2Q9r8UUi5MJKECuaR8tkxq1rDhdPT8FhEmsEi3pump",
+    "description": "CatCoin ($CAT) is a community-driven Solana memecoin with lore, NFTs, P2E plans, and real-world cat rescue ties."
+  }
+}
